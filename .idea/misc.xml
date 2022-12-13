@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/drawable-v24/cardstyle1.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/drawable/button.xml" value="0.14537037037037037" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/drawable/cardview.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/drawable/ic_baseline_cloud_24.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/drawable/ic_baseline_contacts_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/drawable/ic_baseline_person_add_alt_1_24.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/drawable/profile_screen_bg.xml" value="0.490625" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/drawable/shapecard.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/Homescreen.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/aboutus.xml" value="0.178125" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/activity_constraints_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/activity_spinner.xml" value="0.1" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/activity_test_spinner.xml" value="0.2" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/activity_winner.xml" value="0.2" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/contactus.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/fragment_Search.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/fragment_navigation.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/fragment_search.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/homescreen.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/item_spinner.xml" value="0.2" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/winner_layout.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/layout/winnerlayout.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/menu/bottom_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Nouman Tasif/AndroidStudioProjects/bottom_sheet/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2128205128205128" />
+        <entry key="..\:/internship/bottom_sheet/app/src/main/res/layout/aboutus.xml" value="0.19927536231884058" />
+        <entry key="..\:/internship/bottom_sheet/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/internship/bottom_sheet/app/src/main/res/layout/activity_spinner.xml" value="0.19202898550724637" />
+        <entry key="..\:/internship/bottom_sheet/app/src/main/res/layout/contactus.xml" value="0.19927536231884058" />
+        <entry key="..\:/internship/bottom_sheet/app/src/main/res/layout/winner_layout.xml" value="0.1" />
+        <entry key="..\:/internship/bottom_sheet/app/src/main/res/menu/bottom_navigation.xml" value="0.19947916666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

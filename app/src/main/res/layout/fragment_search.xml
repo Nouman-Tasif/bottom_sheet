@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/whatsapp">
+
+   <TextView
+       android:id="@+id/textfindaperson"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="FIND A PERSON"
+       android:textSize="40dp"
+
+android:textColor="@color/white"
+       android:layout_marginTop="100dp"
+       android:layout_marginLeft="50dp"
+       />
+    <TextView
+        android:id="@+id/textthanks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thanks for giving valuable information"
+        android:layout_below="@id/textfindaperson"
+        android:textSize="25dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="25dp"
+        android:textColor="@color/white"
+        />
+<androidx.cardview.widget.CardView
+    android:id="@+id/cardview"
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:layout_below="@id/textthanks"
+    android:layout_marginTop="40dp"
+
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    app:cardCornerRadius="20dp">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:drawableStart="@drawable/ic_baseline_search_24"
+        android:hint="What Person you need"
+        android:drawablePadding="10dp"
+        android:textSize="20dp"/>
+</androidx.cardview.widget.CardView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/cardview"
+        android:layout_marginTop="40dp"
+        android:text="Find Person Now"
+        android:textSize="25dp"
+       android:background="@drawable/button"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+
+
+        />
+</RelativeLayout>

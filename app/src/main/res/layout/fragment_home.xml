@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+<RelativeLayout
+    android:id="@+id/layout1"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="#9BE4E4"
+    >
+
+
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="0dp"
+            android:src="@drawable/ic_baseline_menu_24" />
+
+        <TextView
+            android:layout_width="187dp"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Genres"
+            android:textColor="@color/black"
+
+            android:textSize="30dp" />
+
+        <ImageView
+            android:layout_width="93dp"
+            android:layout_height="39dp"
+            android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+            android:src="@drawable/ic_baseline_search_24"
+
+            />
+    </RelativeLayout>
+
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_below="@id/layout1"
+       android:orientation="vertical"
+       android:weightSum="3"
+
+       >
+       <RelativeLayout
+
+           android:layout_width="match_parent"
+           android:layout_height="0dp"
+           android:background="@drawable/dance"
+           android:layout_weight="1"
+            android:orientation="vertical"
+           >
+           <TextView
+               android:id="@+id/textdance"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="Dance"
+               android:textColor="@color/black"
+               android:textSize="40dp"
+
+                android:layout_centerInParent="true"
+
+               />
+           <TextView
+               android:id="@+id/texttracks"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="5000 Tracks"
+               android:layout_below="@id/textdance"
+
+
+
+              android:layout_centerInParent="true"
+
+               android:textSize="25dp"
+
+
+
+               />
+
+       </RelativeLayout>
+       <RelativeLayout
+           android:layout_width="match_parent"
+           android:layout_height="0dp"
+           android:layout_weight="1"
+           android:orientation="vertical"
+           android:background="@drawable/jazz"
+           >
+           <TextView
+           android:id="@+id/textjazz"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="JAZZ"
+           android:textColor="@color/black"
+           android:textSize="40dp"
+               android:layout_centerInParent="true"
+
+
+           />
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="5000 Tracks"
+            android:layout_below="@id/textjazz"
+               android:layout_centerInParent="true"
+
+
+
+
+               android:textSize="25dp"
+
+
+
+               />
+       </RelativeLayout>
+       <RelativeLayout
+           android:layout_width="match_parent"
+           android:layout_height="0dp"
+           android:layout_weight="1"
+           android:orientation="vertical"
+           android:background="@drawable/rock"
+
+           >
+           <TextView
+           android:id="@+id/textrock"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Rock"
+           android:textColor="@color/black"
+           android:textSize="40dp"
+
+           android:layout_centerInParent="true"
+           />
+           <TextView
+               android:id="@+id/texttracks3"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="500 Tracks"
+               android:textColor="@color/black"
+                android:layout_gravity="center"
+    android:layout_below="@id/textrock"
+               android:layout_centerInParent="true"
+
+
+
+               android:textSize="30dp"
+
+
+
+               />
+       </RelativeLayout>
+
+
+
+
+
+
+
+   </LinearLayout>
+
+
+
+
+
+
+
+</RelativeLayout>
